@@ -4,7 +4,7 @@ This project is a simple image classifier built using the VGG16 convolutional ne
 
 ## APP UI
 
-https://github.com/shivdattaredekar/CNN_ImageClassifierAPP/assets/46707992/b7d0ac2d-3bd4-448b-b2ac-ad9279e190df
+Video
 
 ## Overview
 
