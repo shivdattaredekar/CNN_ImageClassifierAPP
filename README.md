@@ -2,6 +2,10 @@
 
 This project is a simple image classifier built using the VGG16 convolutional neural network architecture to classify images as either cats or dogs.
 
+## APP UI
+
+https://github.com/shivdattaredekar/CNN_ImageClassifierAPP/assets/46707992/b7d0ac2d-3bd4-448b-b2ac-ad9279e190df
+
 ## Overview
 
 The classifier is trained on a dataset containing images of cats and dogs. The VGG16 model, pre-trained on the ImageNet dataset, is used as a feature extractor. The final fully connected layers of the VGG16 model are replaced with custom layers to adapt the model for the binary classification task of distinguishing between cats and dogs.
