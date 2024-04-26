@@ -1,4 +1,4 @@
-# Cat and Dog Classifier using VGG16
+# Simple Cat and Dog Classifier using VGG16
 
 This project is a simple image classifier built using the VGG16 convolutional neural network architecture to classify images as either cats or dogs.
 
